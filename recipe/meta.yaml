@@ -1,6 +1,6 @@
 {% set name = "request" %}
-{% set version = "2.83.1" %}
-{% set sha256 = "ca830f546bb38bd72c5f43fb52870d529c5704456d819c9a4f722fbfe98219a8" %}
+{% set version = "2.85.1" %}
+{% set sha256 = "eb58a387985159bfbb0bbdd47d70621d23bdc72a88827b2e2fde11e988cbeed5" %}
 
 package:
   name: {{ name|lower }}
