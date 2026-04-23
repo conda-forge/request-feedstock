@@ -15,12 +15,15 @@ Simplified HTTP request client.
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/request-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/request-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/request-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/request-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/request/badges/version.svg)](https://anaconda.org/conda-forge/request)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/request/badges/downloads.svg)](https://anaconda.org/conda-forge/request)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-request-green.svg)](https://anaconda.org/conda-forge/request) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/request.svg)](https://anaconda.org/conda-forge/request) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/request.svg)](https://anaconda.org/conda-forge/request) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/request.svg)](https://anaconda.org/conda-forge/request) |
 
 Installing request
 ==================
